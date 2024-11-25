@@ -1,4 +1,4 @@
-## **Analysis & Design**
+## **30 Days App**
 
 - Presented by: SUIRITA Fahd
 - Framed by: ESSARRAJ Fouad
@@ -24,21 +24,21 @@
   </tr>
   <tr>
     <td>Monday</td>
+    <td>QCM</td>
     <td>Tuto-1</td>
-    <td>Tuto-2</td>
-    <td>Tuto-3</td>
+    <td>Tuto-1</td>
   </tr>
   <tr>
     <td>Tuesday</td>
     <td>-</td>
     <td>-</td>
-    <td>Empathy</td>
+    <td>Tuto-2</td>
   </tr>
   <tr>
     <td>Wednesday</td>
-    <td>Define</td>
-    <td>ideate</td>
-    <td>Prototype</td>
+    <td>Tuto-2</td>
+    <td>Tuto-3</td>
+    <td>Tuto-3</td>
   </tr>
   <tr>
     <td>Thursday</td>
@@ -48,8 +48,8 @@
   </tr>
   <tr>
     <td>Friday</td>
-    <td>Test</td>
-    <td>Test</td>
+    <td>Realisation</td>
+    <td>Realisation</td>
     <td>File_rouge</td>
   </tr>
 </table>
